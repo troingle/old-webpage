@@ -19,12 +19,25 @@ body {
     font-weight: bold;
     text-align: center;
     font-size: 43px;
+    color: #ffffff;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.link-text:hover {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 43px;
     color: #8c9acb;
     cursor: pointer;
     text-decoration: none;
     display: inline-block;
     margin: 0 auto;
 }
+
 
 .flag-icon {
     vertical-align: middle;
