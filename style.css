@@ -82,3 +82,29 @@ body {
     font-size: 30px;
     color: #ffffff;
 }
+
+.bottom-link {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	text-align: center;
+	bottom: 0;
+    font-size: 30px;
+    color: #ffffff;
+	cursor: pointer;
+	text-decoration: none;
+    display: block;
+    margin: 0 auto;
+}
+
+.bottom-link:hover {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	text-align: center;
+	bottom: 0;
+    font-size: 30px;
+    color: #8c9acb;
+	cursor: pointer;
+	text-decoration: none;
+    display: block;
+    margin: 0 auto;
+}
