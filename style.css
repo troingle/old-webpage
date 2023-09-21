@@ -29,6 +29,9 @@ body {
     font-size: 30px;
     color: #8c9acb;
 	cursor: pointer;
+	text-decoration: none;
+    display: block;
+    margin: 0 auto;
 }
 
 .big-text {
