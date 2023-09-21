@@ -15,15 +15,16 @@ body {
     font-weight: bold;
     text-align: center;
     font-size: 43px;
-    color: transparent;
+    color: #8c9acb;
     cursor: pointer;
     text-decoration: none;
     display: inline-block;
     margin: 0 auto;
-    background-image: url('ukflag.png');
-    background-clip: text;
-    -webkit-background-clip: text;
-    color: transparent;
+}
+
+.flag-icon {
+    vertical-align: middle;
+    margin-right: 10px;
 }
 
 .smol-link-text {
