@@ -11,15 +11,19 @@ body {
 }
 
 .link-text {
-	font-family: 'Montserrat', sans-serif;
-	font-weight: bold;
-	text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    text-align: center;
     font-size: 43px;
-    color: #8c9acb;
-	cursor: pointer;
-	text-decoration: none;
-    display: block;
+    color: transparent;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
     margin: 0 auto;
+    background-image: url('texture-image.jpg');
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
 }
 
 .smol-link-text {
