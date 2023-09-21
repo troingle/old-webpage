@@ -4,18 +4,18 @@ body {
 
 .huge-text {
 	font-family: 'Montserrat', sans-serif;
-    font-size: 40px;
+    font-size: 70px;
     color: #ffffff;
 }
 
 .big-text {
 	font-family: 'Montserrat', sans-serif;
-    font-size: 24px;
+    font-size: 40px;
     color: #ffffff;
 }
 
 .small-text {
 	font-family: 'Montserrat', sans-serif;
-    font-size: 16px;
+    font-size: 25px;
     color: #dadaf8;
 }
