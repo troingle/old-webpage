@@ -1,4 +1,14 @@
 body {
 	background-color: #151525;
-	color: #dadaf8;
+}
+
+.big-text {
+    font-size: 24px;
+    color: #ffffff;
+}
+
+/* Style the smaller text */
+.small-text {
+    font-size: 16px;
+    color: #dadaf8;
 }
