@@ -2,6 +2,10 @@ body {
 	background-color: #323232;
 }
 
+.container {
+    text-align: center;
+}
+
 .huge-text {
 	font-family: 'Montserrat', sans-serif;
 	font-weight: bold;
