@@ -2,6 +2,10 @@ body {
 	background-color: #323232;
 }
 
+p {
+	margin: 0;
+  }
+
 .container {
     text-align: center;
 }
