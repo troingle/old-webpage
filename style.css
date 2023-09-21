@@ -19,6 +19,15 @@ body {
 	cursor: pointer;
 }
 
+.smol-link-text {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	text-align: center;
+    font-size: 30px;
+    color: #8c9acb;
+	cursor: pointer;
+}
+
 .big-text {
 	font-family: 'Montserrat', sans-serif;
 	font-weight: bold;
