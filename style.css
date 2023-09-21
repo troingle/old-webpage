@@ -79,7 +79,10 @@ body {
 .small-text {
 	font-family: 'Montserrat', sans-serif;
 	text-align: center;
-	width: 50%;
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
     font-size: 30px;
     color: #ffffff;
 }
