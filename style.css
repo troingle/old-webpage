@@ -23,6 +23,10 @@ body {
     transition: opacity 0.5s ease-in-out;
 }
 
+#changing-text {
+    transition: opacity 0.5s ease-in-out;
+}
+
 .link-text {
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;

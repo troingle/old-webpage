@@ -1,4 +1,4 @@
-const textElement = document.getElementById('huge-text');
+const textElement = document.getElementById('changing-text');
 const texts = ['Text 1', 'Text 2', 'Another creative text name'];
 let currentIndex = 0;
 
