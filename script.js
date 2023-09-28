@@ -1,5 +1,5 @@
 const textElement = document.getElementById('changing-text');
-const texts = ['Text 1', 'Text 2', 'Another creative text name'];
+const texts = ['Welcome', 'Tervetuloa', 'Wilkommen', "Välkommen", "いらっしゃいませ"];
 let currentIndex = 0;
 
 function changeText() {
@@ -11,5 +11,5 @@ function changeText() {
     }, 500);
 }
 
-setInterval(changeText, 5000);
+setInterval(changeText, 2000);
 changeText();
