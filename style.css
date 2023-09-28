@@ -20,6 +20,7 @@ body {
 	text-align: center;
     font-size: 70px;
     color: #ffffff;
+    transition: opacity 0.5s ease-in-out;
 }
 
 .link-text {
