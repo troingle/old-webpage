@@ -19,7 +19,7 @@ body {
 	font-weight: bold;
 	text-align: center;
     font-size: 70px;
-    color: #ffffff;
+    color: #fffaff;
     transition: opacity 0.5s ease-in-out;
 }
 
@@ -32,7 +32,7 @@ body {
     font-weight: bold;
     text-align: center;
     font-size: 43px;
-    color: #ffffff;
+    color: #fffaff;
     cursor: pointer;
     text-decoration: none;
     display: inline-block;
@@ -62,7 +62,7 @@ body {
 	font-weight: bold;
 	text-align: center;
     font-size: 30px;
-    color: #ffffff;
+    color: #fffaff;
 	cursor: pointer;
 	text-decoration: none;
     display: block;
@@ -86,14 +86,14 @@ body {
 	font-weight: bold;
 	text-align: center;
     font-size: 43px;
-    color: #ffffff;
+    color: #fffaff;
 }
 
 .small-text {
 	font-family: 'Montserrat', sans-serif;
 	text-align: center;
     font-size: 30px;
-    color: #ffffff;
+    color: #fffaff;
 }
 
 .bottom-link {
@@ -102,7 +102,7 @@ body {
 	text-align: center;
 	bottom: 0;
     font-size: 30px;
-    color: #ffffff;
+    color: #fffaff;
 	cursor: pointer;
 	text-decoration: none;
     display: block;
