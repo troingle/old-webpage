@@ -44,7 +44,7 @@ body {
     font-weight: bold;
     text-align: center;
     font-size: 43px;
-    color: #8c9acb;
+    color: #3E92CC;
     cursor: pointer;
     text-decoration: none;
     display: inline-block;
@@ -74,7 +74,7 @@ body {
 	font-weight: bold;
 	text-align: center;
     font-size: 30px;
-    color: #8c9acb;
+    color: #3E92CC;
 	cursor: pointer;
 	text-decoration: none;
     display: block;
@@ -93,7 +93,7 @@ body {
 	font-family: 'Montserrat', sans-serif;
 	text-align: center;
     font-size: 30px;
-    color: #fffaff;
+    color: #3E92CC;
 }
 
 .bottom-link {
@@ -115,7 +115,7 @@ body {
 	text-align: center;
 	bottom: 0;
     font-size: 30px;
-    color: #8c9acb;
+    color: #3E92CC;
 	cursor: pointer;
 	text-decoration: none;
     display: block;
