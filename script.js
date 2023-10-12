@@ -1,5 +1,5 @@
 const textElement = document.getElementById('changing-text');
-const texts = ['Welcome', 'Tervetuloa', 'Wilkommen', "Välkommen", "いらっしゃいませ"];
+const texts = ['Welcome', 'Tervetuloa', 'Willkommen', "Välkommen", "いらっしゃいませ"];
 let currentIndex = 0;
 
 function changeText() {
