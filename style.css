@@ -4,20 +4,6 @@ body {
     overflow: hidden
 }
 
-.box {
-    position: absolute;
-    width: 33%;
-    height: 50%;
-    cursor: pointer;    
-}
-
-#box1 { background-color: #000000; top: 0; left: 0; }
-#box2 { background-color: #7E2553; top: 0; left: 33%; }
-#box3 { background-color: #FF004D; top: 0; left: 66%; }
-#box4 { background-color: #1D2B53; top: 50%; left: 0; }
-#box5 { background-color: #ffffff; top: 50%; left: 33%; }
-#box6 { background-color: #4a008a; top: 50%; left: 66%; }
-
 .container {
     text-align: center;
 }
