@@ -1,6 +1,20 @@
 body {
 	background-color: #1E1B18;
+    overflow: hidden
 }
+
+.box {
+    position: absolute;
+    width: 20%;
+    height: 20%;
+    cursor: pointer;    
+}
+
+#box1 { background-color: #000000; top: 0; left: 0; }
+#box2 { background-color: #7E2553; top: 0; left: 20%; }
+#box3 { background-color: #FF004D; top: 0; left: 40%; }
+#box4 { background-color: #1D2B53; top: 20%; left: 0; }
+#box5 { background-color: #ffffff; top: 20%; left: 20%; }
 
 .container {
     text-align: center;
