@@ -10,7 +10,7 @@ const y = centerY + radius * Math.sin(angle);
 
 function moveBall(){
     ball.style.left = x + "px";
-    ball.style.top = y + "px";
+    ball.style.top = y + "px";x
 
     angle += speed;
 }
