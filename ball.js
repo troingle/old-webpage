@@ -1,8 +1,8 @@
 const ball = document.getElementById("ball");
 const centerX = window.innerWidth / 2;
 const centerY = window.innerHeight / 2;
-const radius = 100;
-const speed = 200 * Math.PI / 1000;
+const radius = 200;
+const speed = 30 * Math.PI / 1000;
 let angle = 0;
 
 function moveBall() {
